@@ -20,5 +20,6 @@ The project produced by this group is a car parking indicator that contains the 
 - Ability to display the availability of a parking slot via an image of a car in an occupied slot.
 - Ability to show the nearest available parking slot (With distance calculator).
 
-
+To run the app, download the whole repository and extract the files in a folder. 
+Afterwards, open "OperatorsView.mlapp" to use the app. 
 
